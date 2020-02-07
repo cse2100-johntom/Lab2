@@ -1,0 +1,13 @@
+Lab 2
+q1: 192.168.1.145
+q2: 	eth0	:b8:27:eb:ba:5b:c7
+	wlan0	:b8:27:eb:ef:0e:92
+q3: sudo
+q4:
+
+echo this is the beginning of my script
+cd cse2100/hello_world3/
+cmake .
+make
+./hello_world
+echo this is the end of the script
